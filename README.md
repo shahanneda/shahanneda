@@ -1,6 +1,6 @@
 ## Hi, I'm Shahan
 
-Ever since I was a little kid, I've been learning and coding, and this github is a culmination of my years of learning (and the reason behind my super thick glasses 😢). 
+Ever since I was a little kid, I've been learning and coding, and this github is a culmination of all those years of effort (and the reason behind my super thick glasses 😢). 
 Have fun checking out my projects!
 
 <!--
