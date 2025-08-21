@@ -3,6 +3,9 @@
 Ever since I was a little kid, I've been learning and coding, and this github is a culmination of all those years of effort (and the reason behind my super thick glasses 😢). 
 Have fun checking out my projects!
 
+In the past I've:
+- Interned at @OpenAI, @Stripe, [@SideFX working on Houdini](https://www.sidefx.com/products/houdini/), Faire
+
 <!--
 
 Some of my favourite projects are:
