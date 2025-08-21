@@ -3,7 +3,7 @@
 Ever since I was a little kid, I've been learning and coding, and this github is a culmination of all those years of effort (and the reason behind my super thick glasses 😢). 
 Have fun checking out my projects!
 
-In the past I've interned at @OpenAI, @Stripe, [@SideFX working on Houdini](https://www.sidefx.com/products/houdini/) and Faire, and I'm currently looking for cool FT opportunities! 
+In the past I've interned at [OpenAI](https://openai.com/), [Stripe](https://stripe.com/), [SideFX working on Houdini](https://www.sidefx.com/products/houdini/) and [Faire](https://www.faire.com/), and I'm currently looking for cool FT opportunities! 
 
 <!--
 
