@@ -5,6 +5,9 @@ Have fun checking out my projects!
 
 In the past I've interned at [OpenAI](https://openai.com/), [Stripe](https://stripe.com/), [SideFX working on Houdini](https://www.sidefx.com/products/houdini/) and [Faire](https://www.faire.com/), and I'm currently looking for cool FT opportunities! 
 
+Also checkout my website: https://shahan.ca
+
+
 <!--
 
 Some of my favourite projects are:
